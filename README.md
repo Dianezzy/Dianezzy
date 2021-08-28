@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!!! 👋
 
 - 🔭 I’m a senior student majoring in Computer Science @ Zhejiang University.
 - 🌱 I’m currently fucusing on multimedia information extraction.

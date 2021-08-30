@@ -9,4 +9,4 @@
 - 🌱 I’m currently fucusing on multimedia information extraction.
 - 💬 Happy to help you if I could.
 - 📫 How to reach me: zhyi0625@gmail.com
-- ⚡ Fun fact: I am a photography lover!
+- ⚡ Fun fact: I am a literature and photography lover!

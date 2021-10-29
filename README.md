@@ -6,7 +6,7 @@
 </h3>
 
 - 🔭 I’m a senior student majoring in Computer Science @ Zhejiang University.
-- 🌱 I’m currently trying to teach machine skills from multimeida instructions.
+- 🌱 I’m currently interested in information extraction and generation from multimedia instructions.
 - 💬 Happy to help you if I could.
 - 📫 How to reach me: zhyi0625@gmail.com
 - ⚡ Fun fact: I am a literature and photography lover!

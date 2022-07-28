@@ -5,8 +5,8 @@
 </h3>
 </h3>
 
-- 🔭 I’m a senior student majoring in Computer Science @ Zhejiang University.
+- 🔭 I’m a student of MS in Machine Learning @ Carnegie Mellon University.
 - 🌱 I’m currently interested in information extraction and generation with multimedia instructions.
 - 💬 Happy to help you if I could.
-- 📫 How to reach me: zhyi0625@gmail.com
+- 📫 How to reach me: cutest@cmu.edu
 - ⚡ Fun fact: I am a literature and photography lover!

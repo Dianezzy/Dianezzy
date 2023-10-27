@@ -14,7 +14,5 @@
 
 - 💬 Happy to help you if I could.
 
-- 📫 How to reach me: cutest@cmu.edu
-
 - ⚡ Fun fact: I love literature, philosophy and photography!
 

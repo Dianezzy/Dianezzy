@@ -6,13 +6,5 @@
 
 </h3>
 
-</h3>
 
-- 🔭 I’m a student of MS in Machine Learning @ Carnegie Mellon University.
-
-- 🌱 I’m currently interested in efficient training, audio and NLP.
-
-- 💬 Happy to help you if I could.
-
-- ⚡ Fun fact: I love literature, philosophy and photography!
 
